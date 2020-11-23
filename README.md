@@ -1,6 +1,6 @@
 ### Welcome to my `The Room of Requirement` 👋
 
-<img align=right height=115 src='https://imgsa.baidu.com/forum/w%3D580/sign=e42974e15eda81cb4ee683c56266d0a4/746eee03918fa0ec41bdf818299759ee3c6ddbef.jpg'/>
+<img align=right height=115 src='http://n.sinaimg.cn/sinacn/w638h640/20180131/1303-fyrcsrw1209498.jpg'/>
 
 ```
   _   _      _ _    __        __         _     _ 
